@@ -45,7 +45,7 @@
   },
   "description": "Photograph a math problem for step-by-step solutions",
   "author": "Mehdi Nabhani <mehdi@geenius.app>",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/mxn2020/mathsnap.git"
